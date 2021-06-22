@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://modernappsninjas.github.io/Oni-no-Hanzo/"
+baseURL = "https://modernappsninjas.github.io/waghmaredb/"
 title = "ModernApps Ninja Member Page for hiilo aaa"
 theme = "educenter-hugo"
 # themesDir = "../.."
@@ -43,7 +43,7 @@ link = "plugins/google-map/gmap.js"
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "ModernApps Ninja Member Page for Oni-no-Hanzo"
+description = "ModernApps Ninja Member Page for waghmaredb"
 author = "ModernApps Ninjabot"
 # contact info
 # address = "9567 Turner Trace Apt. BC C3G8A4"
@@ -100,7 +100,7 @@ link = "https://twitter.com/afewell"
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "https://github.com/Oni-no-Hanzo/"
+link = "https://github.com/waghmaredb/"
 
 [[params.social]]
 title = "linkedin"
@@ -141,7 +141,7 @@ weight = 3
 [[Languages.en.menu.main]]
 parent = "Links"
 name = "Site github repo"
-URL = "https://github.com/modernappsninjas/Oni-no-Hanzo/"
+URL = "https://github.com/modernappsninjas/waghmaredb/"
 weight = 3001
 
 [[Languages.en.menu.main]]
